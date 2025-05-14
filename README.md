@@ -71,3 +71,6 @@ This analysis provides a comprehensive understanding of customer behavior and sa
 
 ## Key Skills Implemented
 - Data Cleaning and Preparation, Data Analysis, Pivot Table Utilization, Forecasting, Data Visualization, Segmentation Techniques, Business Insight Generation, Reporting and Documentation
+
+## Contact
+For inquiries or collaboration, please reach out to: [manoelvuu@gmail.com](mailto:manoelvuu@gmail.com)
