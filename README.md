@@ -30,7 +30,8 @@ The analysis followed these steps:
 4. **Forecasting**: Predicted future spending trends using Excel's forecasting function.
 5. **Visualizations**: Created charts and graphs to illustrate sales trends and segmentation insights.
 
-## Findings and Insights ![Customer Segmentation Analysis Dashboard](https://github.com/user-attachments/assets/213a7061-f066-4a4a-aaf0-39df0ef95548)
+## Findings and Insights 
+![Customer Segmentation Analysis Dashboard](https://github.com/user-attachments/assets/213a7061-f066-4a4a-aaf0-39df0ef95548)
 
 ### Sales Trends
 - **Observation**: Customer purchase amounts tend to decline after 10 years of membership, with most purchases occurring in the first 2 years. However, spending behavior gradually increases over time, indicating sustained engagement.
