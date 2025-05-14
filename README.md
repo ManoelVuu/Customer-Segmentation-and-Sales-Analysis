@@ -65,3 +65,9 @@ The analysis followed these steps:
 
 ## Conclusion
 This analysis provides a comprehensive understanding of customer behavior and sales patterns. By leveraging insights into customer preferences, spending trends, and loyalty, the company can optimize marketing strategies, refine product offerings, and implement effective loyalty programs to drive revenue and retention.
+
+## Tools Used
+- Microsoft Excel
+
+## Key Skills Implemented
+- Data Cleaning and Preparation, Data Analysis, Pivot Table Utilization, Forecasting, Data Visualization, Segmentation Techniques, Business Insight Generation, Reporting and Documentation
