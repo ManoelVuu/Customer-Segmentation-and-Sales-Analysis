@@ -74,3 +74,4 @@ This analysis provides a comprehensive understanding of customer behavior and sa
 
 ## Contact
 For inquiries or collaboration, please reach out to: [manoelvuu@gmail.com](mailto:manoelvuu@gmail.com)
+**Medium**: Read the full story at [Unlocking Customer Insight](https://medium.com/@manoelvuu/unlocking-customer-insights-a-data-driven-journey-into-segmentation-and-sales-analysis-0e86d879eb97)
