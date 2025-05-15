@@ -1,5 +1,7 @@
 # Customer Segmentation and Sales Analysis
 
+![pexels-kindelmedia-7651801](https://github.com/user-attachments/assets/400290bc-2688-4df3-aa9f-ef9877e08f60)
+
 ## Introduction
 This project analyzes customer data to uncover patterns, segment customers, and predict future sales trends. By leveraging demographic and behavioral data, the project provides actionable insights to optimize customer segmentation, enhance targeted marketing strategies, and improve sales performance.
 
@@ -74,4 +76,5 @@ This analysis provides a comprehensive understanding of customer behavior and sa
 
 ## Contact
 For inquiries or collaboration, please reach out to: [manoelvuu@gmail.com](mailto:manoelvuu@gmail.com)
+
 **Medium**: Read the full story at [Unlocking Customer Insight](https://medium.com/@manoelvuu/unlocking-customer-insights-a-data-driven-journey-into-segmentation-and-sales-analysis-0e86d879eb97)
