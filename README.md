@@ -41,9 +41,9 @@ The analysis followed these steps:
 
 ### Customer Segmentation
 - **Preferred Categories**:
-  - Adolescents prefer electronics.
+  - Adolescents prefer clothing.
   - Middle-aged customers favor groceries.
-  - Adults prefer clothing.
+  - Adults prefer sports, electronics and clothing evenly.
   - High-income customers are predominantly in the low-spending segment.
 - **Recommendation**: Tailor marketing campaigns to align with age-based preferences and introduce high-value products to engage high-income customers.
 
